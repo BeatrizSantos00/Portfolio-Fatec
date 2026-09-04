@@ -88,7 +88,6 @@ Neste projeto, aprofundei conhecimentos em modelagem de banco de dados relaciona
 - **2º Semestre:** PACER+ — Avaliador de Competências
 - [3º Semestre: Sistema de Controle de Ponto e Gestão de Funcionários](API-3-semestre.md)
 - [4º Semestre: Sistema Inteligente de Monitoramento e Alerta de Tráfego](API-4-semestre.md)
-- [5º Semestre: Projeto para o cliente SIATT](API-5-semestre.md)
-- [6º Semestre: Gestão e Interpretação de Documentos com IA — AKAER](API-6-semestre.md)
+
 
 [⬅️ Voltar ao Portfólio](../README.md)
